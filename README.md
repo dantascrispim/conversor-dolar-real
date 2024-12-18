@@ -14,7 +14,7 @@ do pop ao indie, prepare-se para uma viagem musical onde cada faixa conta uma hi
 
 ## 🚀 O Que é?
 
-Converta dólares para reais em tempo real!  Nosso conversor gratuito te ajuda a planejar suas viagens e acompanhar as cotações do mercado. Rápido, fácil e preciso!
+Converta dólares para reais em tempo real!  Nosso conversor gratuito te ajuda a planejar suas viagens e acompanhar as cotações do mercado. Rápido, fácil e preciso! 🚀
 
 ## 🛠️ Tecnologias Usadas
   - HTML: Para estruturar tudo.
@@ -34,7 +34,8 @@ Converta dólares para reais em tempo real!  Nosso conversor gratuito te ajuda a
   Este projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/)
 
 🌐 Confira Meu Projeto: 
-  Você pode ver o projeto ao vivo aqui: https://playlist-dev.vercel.app/
+
+  Você pode ver o projeto ao vivo aqui: https://conversor-dolar-real-g93d0imuw.vercel.app/
 
 📫 Como Me Encontrar: 
 
