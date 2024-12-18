@@ -1,8 +1,7 @@
 
- ## 🖥️ Projeto Playlist-Dev
+ ## 🖥️ Projeto Conversor de Dólar para Real
 
-Descubra o som perfeito para cada momento! Nesta playlist, misturamos clássicos e lançamentos que vão te acompanhar em todos os moods. Do chill ao enérgico, 
-do pop ao indie, prepare-se para uma viagem musical onde cada faixa conta uma história. Dê o play, aumente o volume e se deixe levar! 🎧✨
+Precisa converter dólar para real rapidinho? Nosso conversor é a solução! Rápido, fácil e sempre atualizado. ✨
 
 
 ## Foto do Projeto
