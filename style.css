@@ -4,6 +4,7 @@
     --foreground: #e5eed1;
     --secondary: #909090;
     --secondary-light: #c8c8c8;
+    --secondary-green:#005E54;
 }
 
 * {
@@ -63,7 +64,7 @@ main section input {
     flex: 1;
     min-width: 0;
     background: transparent;
-    color: var(--secondary);
+    color: var(--secondary-green);
     font-size: 5rem;
     font-weight: bold;
     border: 0;
